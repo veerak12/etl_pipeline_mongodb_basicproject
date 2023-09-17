@@ -1,1 +1,0 @@
-# ETL_pipeline_mongodb_basicproject
